@@ -38,8 +38,8 @@ img {
     <!-- Image and text -->
   <nav class="navbar navbar-light bg-light">
     <a class="navbar-brand" href="#">
-      <img src="https://scontent-amt2-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/82753022_762311997875771_8465378088121553207_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_cat=111&_nc_ohc=6wJ8YVGEMUAAX9CG9HL&oh=27d5c7073341300a1b27786c4c344fcb&oe=5F751D16&dl=1" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy">
-      <b>Rex</b>
+      <img src="https://media.discordapp.net/attachments/1050828547129872480/1073854234258313226/ae608cf3b96e9f746d855f926cc82b96.jpg" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy">
+      <b>Helix</b>
     </a>
   </nav>
   <div class="avatar">
