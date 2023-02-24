@@ -9,7 +9,7 @@ const manager = new ShardingManager("./src/index.js", {
   respawn: true,
   autoSpawn: true,
   token: config.token,
-  totalShards: "auto",
+  totalShards: 42,
   shardList: "auto",
 });
 
