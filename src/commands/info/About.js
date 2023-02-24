@@ -46,7 +46,7 @@ export default class About extends Command {
             .setColor(this.client.color.default)
             .addFields([
                 { name: 'Creator', value: '[Trazhub](https://github.com/trazhub)', inline: true },
-                { name: 'Repository', value: '[Here](https://github.com/trazhub/helixbot', inline: true },
+                { name: 'Repository', value: '[Here](https://github.com/trazhub/helixbot)', inline: true },
                 { name: 'Support', value: '[Here](https://garvverma.me/dcjoin)', inline: true },
                 { name: '\u200b', value: `He really wanted to make his first open source project ever for more coding experience. In this project, he was challenged to make a project with less bugs. Hope you enjoy using helix!`, inline: true },
             ]);
